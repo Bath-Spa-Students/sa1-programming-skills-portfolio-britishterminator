@@ -113,6 +113,7 @@ Write a program that tells a user how many days there are in a specific month. U
 ### Advanced Requirement:
 Leap Year Adjustment: Modify the program to account for leap years. For February, ask the user if the year is a leap year and adjust the number of days accordingly.
 
++
 
 ____________________________________________________________________________________
 
@@ -124,7 +125,7 @@ Write a program that simulates a password entry system. The correct password is 
 1. Define the correct password.
 2. Use a while loop to repeatedly ask the user for the password until the correct one is entered.
 3. Output an appropriate message when the correct password is entered.
-
+ 
 ### Optional Requirements:
 
 Modify the program to include a maximum of 5 password attempts. If the user enters the wrong password, inform them of the remaining attempts. If the maximum number of attempts is reached, inform the user that the authorities have been alerted.

@@ -1,4 +1,4 @@
-#Exercise 2: Simple Sums
+#Exercise 02: Simple Sums
 
 # Variable 1
 num1=8

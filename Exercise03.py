@@ -1,4 +1,4 @@
-# Exercise 3: Biography
+# Exercise 03: Biography
 
 # Store data
 User_Data = {"name":"Ali Aaryan", # Name of the student

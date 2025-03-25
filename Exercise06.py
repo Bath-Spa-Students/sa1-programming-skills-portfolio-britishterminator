@@ -1,3 +1,5 @@
+#Exercise 06
+
 correct_password = "098"
 
 while True:

@@ -1,16 +1,21 @@
-def is_even_or_odd(number):
+#Exercise 10
+
+def check_even_odd(number):
+    # Check if the number is even or odd
     if number % 2 == 0:
-        return f"The number {number} is even."
+        return f"{number} is even."
     else:
-        return f"The number {number} is odd."
+        return f"{number} is odd."
 
 def main():
-    try:
-        number = int(input("Please enter a number: "))
-        result = is_even_or_odd(number)
-        print(result)
-    except ValueError:
-        print("Invalid input. Please enter an integer.")
+    # Ask the user for a number
+    user_input = int(input("Enter a number: "))  # Convert input to integer
+    # Call the function and print the result
+    result = check_even_odd(user_input)
+    print(result)
 
 if __name__ == "__main__":
     main()
+
+
+    

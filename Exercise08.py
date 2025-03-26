@@ -1,3 +1,5 @@
+#exercise 08
+
 # List of names
 
 names = ["Jake", "Zac", "Ian", "Ron", "Sam", "Dave"]
